@@ -1,0 +1,11 @@
+html {
+    background-color: bisque;
+}
+h1 {
+    color: black; 
+    font-family: 'Amatic SC', sans-serif;
+}
+p {
+    font-family: "Helvetica", Arial;
+    color: #333;
+}
