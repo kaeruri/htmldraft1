@@ -1,5 +1,7 @@
 html {
     background-color: bisque;
+    display: flex;
+    justify-content: center;
 }
 
 h1 {
