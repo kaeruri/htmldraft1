@@ -1,11 +1,46 @@
 html {
     background-color: bisque;
 }
+
 h1 {
     color: black; 
+    font-weight: bold;
     font-family: 'Amatic SC', sans-serif;
+    font-size: 24px;
+    margin-bottom: 8px;
 }
+
 p {
     font-family: "Helvetica", Arial;
     color: #333;
+    font-size: 14px;
+    margin-top: 8px;
+    
+}
+
+button {
+    font-family: 'Amatic SC', sans-serif;
+    font-size: 20px;
+    background-color: rgb(237, 184, 143);
+    color:white;
+    border-radius: 10px;
+    height: 35px;
+    width: 100px;
+    margin-right: 4px;
+    cursor: pointer;
+    border-color: white;
+    border-width: 2px;
+    transition: background-color 0.15s, color 0.15s;
+}
+button:hover {
+    background-color: white;
+    color: rgb(237, 184, 143);
+}
+button:active {
+    background-color: white;
+    color: rgb(237, 184, 143);
+}
+
+h2 {
+    margin-top: 40px;
 }
